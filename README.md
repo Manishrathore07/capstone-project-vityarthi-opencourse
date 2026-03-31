@@ -1,9 +1,13 @@
 capstone project vityarthi
-Student Details
+Student Details 
+
+
 Name: Manish Rathore
+
 Software: Git
 
 Scripts
+
 Script 1
 Displays system information
 
